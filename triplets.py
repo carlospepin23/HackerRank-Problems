@@ -26,6 +26,7 @@ def compareTriplets(a, b):
             score[1]+=1
     return score
 
+# With help from Edimar Valentin Kery <edimar.valentin@upr.edu>
 
     
 
